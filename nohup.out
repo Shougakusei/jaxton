@@ -1,0 +1,17 @@
+[I 2023-02-27 15:02:11.433 LabApp] JupyterLab extension loaded from /home/shougakusei/.local/lib/python3.10/site-packages/jupyterlab
+[I 2023-02-27 15:02:11.433 LabApp] JupyterLab application directory is /home/shougakusei/.local/share/jupyter/lab
+[I 15:02:11.436 NotebookApp] The port 8888 is already in use, trying another port.
+[I 15:02:11.437 NotebookApp] Serving notebooks from local directory: /home/shougakusei/jaxton-exercises
+[I 15:02:11.437 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 15:02:11.437 NotebookApp] http://localhost:8889/?token=ca754e8fc9955551ec31ce0b1c0c78e7947a6771474678d3
+[I 15:02:11.437 NotebookApp]  or http://127.0.0.1:8889/?token=ca754e8fc9955551ec31ce0b1c0c78e7947a6771474678d3
+[I 15:02:11.437 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:02:11.459 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/shougakusei/.local/share/jupyter/runtime/nbserver-16986-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=ca754e8fc9955551ec31ce0b1c0c78e7947a6771474678d3
+     or http://127.0.0.1:8889/?token=ca754e8fc9955551ec31ce0b1c0c78e7947a6771474678d3
+[I 15:02:23.291 NotebookApp] Kernel started: 9eb29846-6815-402f-9c08-394302fd8941, name: python3
+[I 15:02:26.192 NotebookApp] Starting buffering for 9eb29846-6815-402f-9c08-394302fd8941:8c0eae3a2105450e9ce39697a4540f26

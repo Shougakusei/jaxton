@@ -15,3 +15,42 @@
      or http://127.0.0.1:8889/?token=ca754e8fc9955551ec31ce0b1c0c78e7947a6771474678d3
 [I 15:02:23.291 NotebookApp] Kernel started: 9eb29846-6815-402f-9c08-394302fd8941, name: python3
 [I 15:02:26.192 NotebookApp] Starting buffering for 9eb29846-6815-402f-9c08-394302fd8941:8c0eae3a2105450e9ce39697a4540f26
+[W 07:04:41.838 NotebookApp] Notebook notebooks/03_pseudorandom_numbers_exercises.ipynb is not trusted
+[I 07:04:42.504 NotebookApp] Kernel started: 00fd063f-2079-4c05-be7e-48ff108dff76, name: python3
+[I 07:06:42.519 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:08:42.510 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:10:43.009 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:12:43.013 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:14:43.019 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:16:43.716 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:18:43.728 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:19:28.421 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[W 07:19:39.882 NotebookApp] Notebook notebooks/03_pseudorandom_numbers_solutions.ipynb is not trusted
+[I 07:19:40.578 NotebookApp] Kernel started: 5ff12bd2-c1f2-4d31-8d96-298c7ab6dacc, name: python3
+[I 07:19:55.510 NotebookApp] Starting buffering for 5ff12bd2-c1f2-4d31-8d96-298c7ab6dacc:5c72c41486744fa79c46bad795cea425
+[I 07:19:55.511 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_solutions.ipynb
+[W 07:19:55.512 NotebookApp] Notebook notebooks/03_pseudorandom_numbers_solutions.ipynb is not trusted
+[I 07:19:58.495 NotebookApp] Saving file at /notebooks/03_pseudorandom_numbers_exercises.ipynb
+[I 07:19:58.949 NotebookApp] Starting buffering for 00fd063f-2079-4c05-be7e-48ff108dff76:24b50593420744518c2ae9a7e297a3c8
+[W 07:20:03.463 NotebookApp] Notebook notebooks/04_justintime_jit_compilation_solutions.ipynb is not trusted
+[I 07:20:04.182 NotebookApp] Kernel started: 6c34f0b0-f382-4633-9da6-f0e989dce3cf, name: python3
+[W 07:20:19.661 NotebookApp] Notebook notebooks/04_justintime_jit_compilation_exercises.ipynb is not trusted
+[I 07:20:20.291 NotebookApp] Kernel started: d0bc0bf9-26e5-4465-a536-1a945ad5243a, name: python3
+[I 07:20:21.812 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_solutions.ipynb
+[W 07:20:21.813 NotebookApp] Notebook notebooks/04_justintime_jit_compilation_solutions.ipynb is not trusted
+[I 07:20:21.904 NotebookApp] Starting buffering for 6c34f0b0-f382-4633-9da6-f0e989dce3cf:a55d74a7ecee43feaff9df2de245589a
+[W 07:22:04.085 NotebookApp] Notebook notebooks/04_justintime_jit_compilation_solutions.ipynb is not trusted
+[I 07:22:08.639 NotebookApp] Starting buffering for 6c34f0b0-f382-4633-9da6-f0e989dce3cf:887872907dde4b889fea4910f624eff3
+[I 07:22:20.277 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[I 07:24:20.289 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[W 07:25:35.872 NotebookApp] Notebook notebooks/04_justintime_jit_compilation_solutions.ipynb is not trusted
+[I 07:25:49.523 NotebookApp] Starting buffering for 6c34f0b0-f382-4633-9da6-f0e989dce3cf:cada81af411147d1808ffd747300b24f
+[I 07:26:20.962 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[W 07:27:58.192 NotebookApp] Notebook notebooks/04_justintime_jit_compilation_solutions.ipynb is not trusted
+[I 07:28:20.960 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[I 07:30:20.968 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[I 07:42:20.958 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[I 07:44:13.826 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[I 07:44:14.226 NotebookApp] Saving file at /notebooks/04_justintime_jit_compilation_exercises.ipynb
+[I 07:44:16.806 NotebookApp] Starting buffering for 6c34f0b0-f382-4633-9da6-f0e989dce3cf:0dee2dc8e1a844ca9cf59c6d85493bd0
+[I 07:44:17.506 NotebookApp] Starting buffering for d0bc0bf9-26e5-4465-a536-1a945ad5243a:2dd4380ad3d746bc95e9f2ac209a8196
